@@ -8,7 +8,8 @@ import time
 import threading
 
 # 🔐 Bot token
-TOKEN = "7865664873:AAGM7ZHhmjxsRcu0nV3J6Ezdt935VAryUYg"
+TOKEN = "7865664873:AAF1f-If8c3WhLazmsTsaKt6hioYHK3kJGY
+"
 bot = telebot.TeleBot(TOKEN)
 
 # 📄 Google Sheets sozlamalari
