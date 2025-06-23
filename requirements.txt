@@ -1,4 +1,3 @@
+pyTelegramBotAPI
 gspread
 oauth2client
-pytelegrambotapi
-schedule
