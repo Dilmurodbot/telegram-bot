@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "spartan-cosmos-463810-g2",
+  "private_key_id": "90ccdc71236d950362f1ceed5b191838efa2d7a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCRJWIWjePcLOvg\nIXJUUe4iPwV/Kje0TDuWY1T7wFSfFbPgwA6YZZJcZgrPn9lZNwjMbsmYsmu1BN2y\nu99sG5EtFJOIHwcboAU03L7SyVSQVb9GobdAiJhaMIlDV4HYL3Xszvjm82ntYxDs\nIXDrtF5neD46STqmVJU4efVonN5OSd6ByQiIZK4oPcZh9fr5kEsg9/Vqko1jzFYw\nNuQ78D7FhwZD9Y0GotCm00tlOJINVhdO6GmssS//DgyK3q7Dlc/lM9/lsT1gBYIz\nM+j4wQcjf+V2WR1zkOdnSKHKQAcMSeUBjtFQzQIYhlZBns8n3oBI3/jBwPVGz267\nlIC2L0ipAgMBAAECggEAIluoi/E7in+BuHUCZM5eIfIsIW2DcSUIh/FsiQl+nofb\nJC0iZ1XH3yJylbJfl1xNM2NYSlKV52xG9Iu/eA5Qf8zanYLGwnXPNbO5YhkxcNcz\nZ4tZXyfWdKb/nxbEUEHv1sYpqjXdkcl9FIBYBBuWq0SN6msyPHRSPGO2QXS8tOgx\nMZsWJMH1FAo72nxsfRf9ql8fab6X+XXixyMZx/Nn3IpTpNP0CxsM1UQxNCa1XJ37\nXZhohDoVfiPQVu5vs7V3L0G0/utBU9gJthffc+nguXxQ9FZmsfhtm82UA/+7Pe4r\nvB9Hr8JZ9rqeqPfIeMQPR6ZDddnRVM+UNk0pHvytBwKBgQDJFbeHZlfAB5NlU1Oe\nMKZm+aBp875DvVNYWJdYLhAAb7JAAI6jZNqVBNjvZw5iE5cbC+PeA6DFyRXBOqfk\n+zYW1cbcrlQ8ooVktwKKTQcH8V6ypUqm0WluWo9bGYgxrx3aoD6iiOqJ25tjMGbS\ntcFOXAXwsIpjlhXTUcMOqvKpgwKBgQC4yNyDXx8xLJ2srlvAeL19LT6uINjDqdMl\nHbdo9ED/E6GZd3rdiQLwXwnFwVMDNY0NJmpq0/NVzX4CHaGvNEjNv/JomdmSEc9l\nntIFmyldbFBvjps28FIrerirJteDSjAuBOL6Lkkhta0ehe/CSNWZ9QLWqtcFW3ZB\nOZgHZhtpYwKBgQCS8f/QPoXZmq+n2CC+9SZlEf6b7rcXoX8KjJLsqZyf9P/5rW6P\nEOB7DbPKHzFvkolWBnZag6Q1ZSE0t7yBpOJ+BXLxSaPdO5bnZqXAk1GUCFr/ibLn\n/RhiwGMKW7ofNK1IWtnqxMtAOu9uqKw7Rv8gWDcvEJPQ+piweItmaJ40KQKBgQCZ\nyKCsvKdq92Sp59n4TwP0f4kgxblg7Z8Jzrdro4vMPXxKCoO4h2Row8+QQxphG1ou\nTYBXM9nZ2NE71YlQFMVaZprJrvDBfg0K16iWfdFpLNGsZhSLHmpkQRgbaJIHc+Cx\nC+QSrh6y7U4Mjw9As/kAzkX0fe3BSaMbGWGLFtFNXQKBgQC9kjd3+ekkOEX5ch7e\nVUgABdtELFCM/8W/9A08qX0uy+b8KgT8vYy7iQt8keJvOQSkC2Ez31UDKdKFcWay\nsDlup4M74vLfXn/z/fql5XB4K8JlzP8N9IwU2q3spO5hdkHLcUipFcjrTqklcrVr\nLVtrhdLiAlHmVsR4BsPxXzUolw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "telegram-reader@spartan-cosmos-463810-g2.iam.gserviceaccount.com",
+  "client_id": "104422984671388499550",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/telegram-reader%40spartan-cosmos-463810-g2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
